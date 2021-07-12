@@ -1,17 +1,25 @@
 # KONSTRUKSI DASAR PYTHON
-# SEQUENTIAL: Eksekusi Berurutan
-print("Hello World!")
-print("by Mazkur")
-print("Tanggal 13 Maret 2021")
-print("-" * 10)
+# SEQUENTIAL (lurus): Eksekusi Berurutan
+# print("Hello World!")
+# print("by Mazkur")
+# print("Tanggal 13 Maret 2021")
+# print("-" * 10)
+
+# print('Hello World')
+# print('by Kurnia Sandi')
+# print('Tanggal 10 Juni 2020')
+# print("---")
+# you can use:
+# print("-" * 3)
+print("-" * 100)
 
 # PERCABANGAN: Eksekusi terpilih
-ingin_cepat = False
+# ingin_cepat = False
 
-if ingin_cepat:
-    print('jalan lurus aja ya!')
-else:
-    print('Jalan lain')
+# if ingin_cepat:
+#    print('jalan lurus aja ya!')
+# else:
+#    print('Jalan lain')
 
 
 # PERULANGAN
